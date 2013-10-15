@@ -1,0 +1,13 @@
+/* 
+    Document   : asucss
+    Created on : 21/09/2013, 11:09:40 AM
+    Author     : elaprendiz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+figure.imgr{
+    height: 160px;
+    width: 160px;
+    overflow: hidden;
+}

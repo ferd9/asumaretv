@@ -1,0 +1,33 @@
+.btn-top-right {
+    border-radius: 0 0 0 10px;
+}
+
+a i:before {
+    cursor: pointer !important;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.form-inline input[type=checkbox] {
+    margin-top: 8px;
+}
+
+.form-inline span input[type=checkbox] {
+    margin-top: 0px;
+}
+/*
+
+.controls.form-inline label{
+    padding-top: 5px;
+}*/
+
+.control-group:first-child {
+    margin-top: 20px;
+}
+
+.colorpicker.dropdown-menu{
+    min-width: 120px;
+    padding: 5px;
+}
